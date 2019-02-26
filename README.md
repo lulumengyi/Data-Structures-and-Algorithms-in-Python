@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms-in-Python
 Study records of data structures and algorithms in python 
 
-这里记录我学习《Data Structures and Algorithms in Python》 这本书籍的学习总结及课后习题练习，同时会加入leetcode和剑指offer上相对应每个章节的题一起总结。
+这里记录我学习[《Data Structures and Algorithms in Python》](https://book.douban.com/subject/10607365/) 这本书籍的学习总结及课后习题练习，同时会加入leetcode和剑指offer上相对应每个章节的题一起总结。
 
 # 本书目录
  - Ch1 Python基础知识
